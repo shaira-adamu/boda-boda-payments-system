@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! Here, I showcase projects demonstrating my skill
 
 ## 🔹 Contact Me
 - **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/shaira-adamson](https://linkedin.com/in/shaira-adamu)  
+- **LinkedIn:** [linkedin.com/in/shaira-adamu](https://linkedin.com/in/shaira-adamu)  
 - **Location:** Dodoma, Tanzania  
 
 ---
